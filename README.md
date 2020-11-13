@@ -2,7 +2,7 @@
 
 - [Fault Localization](#fault-localization)
   - [Survey](#survey)
-  - [Deep learning-based FL](#deep-learning-based-fl)
+  - [Deep learning-based for FL](#deep-learning-based-for-fl)
 
 ## Survey
 1. Wong, W. E., Gao, R., Li, Y., Abreu, R., & Wotawa, F. (2016). [*A survey on software fault localization*](https://ieeexplore.ieee.org/abstract/document/7390282/). IEEE Transactions on Software Engineering, 42(8), 707-740.
@@ -12,7 +12,7 @@
 3. Wong, W. E., & Debroy, V. (2009). *A survey of software fault localization*. Department of Computer Science, University of Texas at Dallas, Tech. Rep. UTDCS-45, 9. [[paper]](https://web.eecs.umich.edu/~weimerw/2019-481W/readings/faultloc.pdf)
 
 
-## Deep learning-based for FL
+## deep-learning-based-for-fl
 
 1. Li, X., Li, W., Zhang, Y., & Zhang, L. (2019, July). *Deepfl: Integrating multiple fault diagnosis dimensions for deep fault localization.* In Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis (pp. 169-180). [[paper]](https://par.nsf.gov/servlets/purl/10111196)
 
