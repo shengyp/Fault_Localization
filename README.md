@@ -12,7 +12,7 @@
 3. Wong, W. E., & Debroy, V. (2009). *A survey of software fault localization*. Department of Computer Science, University of Texas at Dallas, Tech. Rep. UTDCS-45, 9. [[paper]](https://web.eecs.umich.edu/~weimerw/2019-481W/readings/faultloc.pdf)
 
 
-## Deep learning-based FL
+## Deep learning-based for FL
 
 1. Li, X., Li, W., Zhang, Y., & Zhang, L. (2019, July). *Deepfl: Integrating multiple fault diagnosis dimensions for deep fault localization.* In Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis (pp. 169-180). [[paper]](https://par.nsf.gov/servlets/purl/10111196)
 
